@@ -6,7 +6,7 @@ public class break1 {
         for (int i = 0;i<9;i++) {
             System.out.println(i);
             System.out.println("JAva is great");
-            if (i==5);{
+            if (i==5){
             System.out.println("Loop end here");
             break;
         }
