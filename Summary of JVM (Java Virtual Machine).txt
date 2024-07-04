@@ -11,9 +11,7 @@ Execution Environment: Provides a secure and controlled environment for Java pro
 Optimization: Uses techniques like Just-In-Time (JIT) compilation to improve performance.
 Debugging: Helps in debugging by providing tools and diagnostics for Java programs.
 Standardization: JVM specifications ensure consistency and compatibility across different implementations.
-  
-Understanding these points helps grasp the role of JVM in executing Java programs efficiently across various platforms.
-
+ 
 
 Summary
 * Memory Management: JVM uses heap, stack, and method area to manage memory efficiently.
