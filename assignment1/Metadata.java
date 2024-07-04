@@ -6,7 +6,6 @@ public class Metadata {
     private String isbn;
     private int pages;
 
-    // Getters and Setters
     public double getPrice() {
         return price;
     }
