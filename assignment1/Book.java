@@ -5,7 +5,7 @@ public class Book {
         private String author;
         private Metadata metadata;
     
-        // Getters and Setters
+
         public String getTitle() {
             return title;
         }
@@ -25,7 +25,7 @@ public class Book {
             this.metadata = metadata;
         }
     
-        // Method to display book information
+        
         public void displayBookInfo() {
             System.out.println("Title: " + title);
             System.out.println("Author: " + author);
