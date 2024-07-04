@@ -9,7 +9,7 @@ import java.util.List;
 public class Bookprocessor {
     private List<Book> books;
 
-    // Constructor to initialize and parse JSON data
+    
     public Bookprocessor(String jsonFilePath) {
         Gson gson = new Gson();
         try (FileReader reader = new FileReader(jsonFilePath)) {
@@ -17,16 +17,16 @@ public class Bookprocessor {
             books = gson.fromJson(reader, new TypeToken<List<Book>>(){}.getType());
         } catch (IOException e) {
             e.printStackTrace();
-            // Handle error (e.g., log error, throw custom exception)
+            
         }
     }
 
-    // Method to display details of all books
+    
     public void displayAllBooks() {
         books.forEach(Book::displayBookInfo);
     }
 
-    // Getters for accessing books list if needed
+    
     public List<Book> getBooks() {
         return books;
     }
