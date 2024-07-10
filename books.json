@@ -1,0 +1,512 @@
+[
+    {
+        "title": "Book 1",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 1500,
+            "categories": ["fantasy", "sci-fi"],
+            "isbn": "1234567890123",
+            "pages": 283
+        }
+    },
+    {
+        "title": "Book 2",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 1800,
+            "categories": ["fantasy"],
+            "isbn": "2345678901234",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 3",
+        "author": "George Orwell",
+        "metadata": {
+            "price": 1200,
+            "categories": ["dystopian"],
+            "isbn": "3456789012345",
+            "pages": 198
+        }
+    },
+    {
+        "title": "Book 4",
+        "author": "Stephen King",
+        "metadata": {
+            "price": 2000,
+            "categories": ["horror", "thriller"],
+            "isbn": "4567890123456",
+            "pages": 432
+        }
+    },
+    {
+        "title": "Book 5",
+        "author": "Agatha Christie",
+        "metadata": {
+            "price": 1600,
+            "categories": ["mystery"],
+            "isbn": "5678901234567",
+            "pages": 250
+        }
+    },
+    {
+        "title": "Book 6",
+        "author": "J.R.R. Tolkien",
+        "metadata": {
+            "price": 2500,
+            "categories": ["fantasy"],
+            "isbn": "6789012345678",
+            "pages": 500
+        }
+    },
+    {
+        "title": "Book 7",
+        "author": "Mark Twain",
+        "metadata": {
+            "price": 1400,
+            "categories": ["classics"],
+            "isbn": "7890123456789",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Book 8",
+        "author": "Jane Austen",
+        "metadata": {
+            "price": 1700,
+            "categories": ["romance"],
+            "isbn": "8901234567890",
+            "pages": 280
+        }
+    },
+    {
+        "title": "Book 9",
+        "author": "Arthur Conan Doyle",
+        "metadata": {
+            "price": 1900,
+            "categories": ["mystery"],
+            "isbn": "9012345678901",
+            "pages": 400
+        }
+    },
+    {
+        "title": "Book 10",
+        "author": "Ernest Hemingway",
+        "metadata": {
+            "price": 2200,
+            "categories": ["fiction"],
+            "isbn": "0123456789012",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 11",
+        "author": "Leo Tolstoy",
+        "metadata": {
+            "price": 2100,
+            "categories": ["classics"],
+            "isbn": "1234567890123",
+            "pages": 700
+        }
+    },
+    {
+        "title": "Book 12",
+        "author": "Harper Lee",
+        "metadata": {
+            "price": 2000,
+            "categories": ["fiction"],
+            "isbn": "2345678901234",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 13",
+        "author": "H.G. Wells",
+        "metadata": {
+            "price": 1800,
+            "categories": ["sci-fi"],
+            "isbn": "3456789012345",
+            "pages": 280
+        }
+    },
+    {
+        "title": "Book 14",
+        "author": "Charles Dickens",
+        "metadata": {
+            "price": 1600,
+            "categories": ["classics"],
+            "isbn": "4567890123456",
+            "pages": 400
+        }
+    },
+    {
+        "title": "Book 15",
+        "author": "Anne Frank",
+        "metadata": {
+            "price": 1500,
+            "categories": ["biography"],
+            "isbn": "5678901234567",
+            "pages": 250
+        }
+    },
+    {
+        "title": "Book 16",
+        "author": "Dan Brown",
+        "metadata": {
+            "price": 2200,
+            "categories": ["mystery", "thriller"],
+            "isbn": "6789012345678",
+            "pages": 480
+        }
+    },
+    {
+        "title": "Book 17",
+        "author": "Mary Shelley",
+        "metadata": {
+            "price": 1700,
+            "categories": ["horror"],
+            "isbn": "7890123456789",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Book 18",
+        "author": "Aldous Huxley",
+        "metadata": {
+            "price": 1900,
+            "categories": ["dystopian"],
+            "isbn": "8901234567890",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 19",
+        "author": "Virginia Woolf",
+        "metadata": {
+            "price": 2000,
+            "categories": ["modernist"],
+            "isbn": "9012345678901",
+            "pages": 300
+        }
+    },
+    {
+        "title": "Book 20",
+        "author": "Roald Dahl",
+        "metadata": {
+            "price": 1400,
+            "categories": ["children"],
+            "isbn": "0123456789012",
+            "pages": 200
+        }
+    },
+    {
+        "title": "Book 21",
+        "author": "F. Scott Fitzgerald",
+        "metadata": {
+            "price": 1800,
+            "categories": ["fiction"],
+            "isbn": "1234567890123",
+            "pages": 250
+        }
+    },
+    {
+        "title": "Book 22",
+        "author": "Jules Verne",
+        "metadata": {
+            "price": 2300,
+            "categories": ["adventure"],
+            "isbn": "2345678901234",
+            "pages": 400
+        }
+    },
+    {
+        "title": "Book 23",
+        "author": "Emily Brontë",
+        "metadata": {
+            "price": 1700,
+            "categories": ["gothic"],
+            "isbn": "3456789012345",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Book 24",
+        "author": "Gabriel García Márquez",
+        "metadata": {
+            "price": 1900,
+            "categories": ["magical realism"],
+            "isbn": "4567890123456",
+            "pages": 380
+        }
+    },
+    {
+        "title": "Book 25",
+        "author": "Philip K. Dick",
+        "metadata": {
+            "price": 2100,
+            "categories": ["sci-fi"],
+            "isbn": "5678901234567",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 26",
+        "author": "Franz Kafka",
+        "metadata": {
+            "price": 1600,
+            "categories": ["existentialism"],
+            "isbn": "6789012345678",
+            "pages": 200
+        }
+    },
+    {
+        "title": "Book 27",
+        "author": "Jack London",
+        "metadata": {
+            "price": 2200,
+            "categories": ["adventure"],
+            "isbn": "7890123456789",
+            "pages": 450
+        }
+    },
+    {
+        "title": "Book 28",
+        "author": "Haruki Murakami",
+        "metadata": {
+            "price": 2000,
+            "categories": ["magical realism"],
+            "isbn": "8901234567890",
+            "pages": 380
+        }
+    },
+    {
+        "title": "Book 29",
+        "author": "Kurt Vonnegut",
+        "metadata": {
+            "price": 1800,
+            "categories": ["sci-fi"],
+            "isbn": "9012345678901",
+            "pages": 300
+        }
+    },
+    {
+        "title": "Book 30",
+        "author": "Margaret Atwood",
+        "metadata": {
+            "price": 2100,
+            "categories": ["dystopian"],
+            "isbn": "0123456789012",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Book 31",
+        "author": "Gabriel Garcia Lorca",
+        "metadata": {
+            "price": 1900,
+            "categories": ["poetry"],
+            "isbn": "1234567890123",
+            "pages": 150
+        }
+    },
+    {
+        "title": "Book 32",
+        "author": "Hermann Hesse",
+        "metadata": {
+            "price": 2200,
+            "categories": ["philosophy"],
+            "isbn": "2345678901234",
+            "pages": 280
+        }
+    },
+    {
+        "title": "Book 33",
+        "author": "John Steinbeck",
+        "metadata": {
+            "price": 2000,
+            "categories": ["fiction"],
+            "isbn": "3456789012345",
+            "pages": 400
+        }
+    },
+    {
+        "title": "Book 34",
+        "author": "Michael Crichton",
+        "metadata": {
+            "price": 1800,
+            "categories": ["science fiction"],
+            "isbn": "4567890123456",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 35",
+        "author": "Ken Kesey",
+        "metadata": {
+            "price": 1900,
+            "categories": ["fiction"],
+            "isbn": "5678901234567",
+            "pages": 360
+        }
+    },
+    {
+        "title": "Book 36",
+        "author": "Edgar Allan Poe",
+        "metadata": {
+            "price": 1700,
+            "categories": ["horror"],
+            "isbn": "6789012345678",
+            "pages": 280
+        }
+    },
+    {
+        "title": "Book 37",
+        "author": "Milan Kundera",
+        "metadata": {
+            "price": 2000,
+            "categories": ["fiction"],
+            "isbn": "7890123456789",
+            "pages": 300
+        }
+    },
+    {
+        "title": "Book 38",
+        "author": "Mikhail Bulgakov",
+        "metadata": {
+            "price": 2100,
+            "categories": ["satire"],
+            "isbn": "8901234567890",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 39",
+        "author": "Sylvia Plath",
+        "metadata": {
+            "price": 1600,
+            "categories": ["poetry"],
+            "isbn": "9012345678901",
+            "pages": 200
+        }
+    },
+    {
+        "title": "Book 40",
+        "author": "J.D. Salinger",
+        "metadata": {
+            "price": 1800,
+            "categories": ["fiction"],
+            "isbn": "0123456789012",
+            "pages": 280
+        }
+    },
+    {
+        "title": "Book 41",
+        "author": "Voltaire",
+        "metadata": {
+            "price": 1900,
+            "categories": ["philosophy"],
+            "isbn": "1234567890123",
+            "pages": 240
+        }
+    },
+    {
+        "title": "Book 42",
+        "author": "Orson Scott Card",
+        "metadata": {
+            "price": 2100,
+            "categories": ["sci-fi"],
+            "isbn": "2345678901234",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Book 43",
+        "author": "John Updike",
+        "metadata": {
+            "price": 2000,
+            "categories": ["fiction"],
+            "isbn": "3456789012345",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Book 44",
+        "author": "James Joyce",
+        "metadata": {
+            "price": 2200,
+            "categories": ["modernist"],
+            "isbn": "4567890123456",
+            "pages": 450
+        }
+    },
+    {
+        "title": "Book 45",
+        "author": "Jack Kerouac",
+        "metadata": {
+            "price": 1700,
+            "categories": ["beat"],
+            "isbn": "5678901234567",
+            "pages": 280
+        }
+    },
+    {
+        "title": "Book 46",
+        "author": "T.S. Eliot",
+        "metadata": {
+            "price": 1600,
+            "categories": ["poetry"],
+            "isbn": "6789012345678",
+            "pages": 180
+        }
+    },
+    {
+        "title": "Book 47",
+        "author": "Maurice Sendak",
+        "metadata": {
+            "price": 1800,
+            "categories": ["children"],
+            "isbn": "7890123456789",
+            "pages": 40
+        }
+    },
+    {
+        "title": "Book 48",
+        "author": "George R.R. Martin",
+        "metadata": {
+            "price": 2500,
+            "categories": ["fantasy"],
+            "isbn": "8901234567890",
+            "pages": 800
+        }
+    },
+    {
+        "title": "Book 49",
+        "author": "Harlan Ellison",
+        "metadata": {
+            "price": 2300,
+            "categories": ["sci-fi"],
+            "isbn": "9012345678901",
+            "pages": 500
+        }
+    },
+    {
+        "title": "Book 50",
+        "author": "Kurt Vonnegut",
+        "metadata": {
+            "price": 2000,
+            "categories": ["sci-fi"],
+            "isbn": "0123456789012",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Book 51",
+        "author": "Bram Stoker",
+        "metadata": {
+            "price": 1800,
+            "categories": ["gothic"],
+            "isbn": "1234567890123",
+            "pages": 300
+        }
+    }
+]
